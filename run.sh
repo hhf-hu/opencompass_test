@@ -1,0 +1,1 @@
+python run.py configs/opemcompass_deepseek_test.py --debug
